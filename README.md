@@ -1,6 +1,6 @@
 ### Hi, I'm Yang Yezhuang 👋
 
-- 🍻 Junior at 🇨🇳 [JOU](https://jou.edu.cn/), _BSc in Software Engineering_
+- 🍻 Junior at 🇨🇳 [JOU](https://jou.edu.cn/), _B.Eng in Software Engineering_
 - ⚡ Java / Python
 - ✍️ [Blogger](https://yangyezhuang.github.io)
 
