@@ -2,7 +2,7 @@
 
 - 🍻 Junior at 🇨🇳 [JOU](https://jou.edu.cn/), _B.Eng in Software Engineering_
 - ⚡ Java / Python
-- ✍️ [Blogger](https://yangyezhuang.github.io)
+- ✍️ [Blogger](https://www.cnblogs.com/yangyezhuang)
 
 **Grade and Languages**
 
