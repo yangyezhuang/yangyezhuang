@@ -1,6 +1,6 @@
 ### Hi, I'm Yang Yezhuang 👋
 
-- 🎓 A university student in ![JOU](https://www.jou.edu.cn/)
+- 🎓 A university student in [JOU](https://www.jou.edu.cn/)
 - ⚡ Java / Python
 
 **Grade and Languages**
