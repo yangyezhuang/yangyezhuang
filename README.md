@@ -1,5 +1,13 @@
 ### Hi, I'm Yang Yezhuang 👋
 
-| Description | Most Used Languages |
-| ----------- | ----------- |
-| - 🎓 A university student in [JOU](https://www.jou.edu.cn/) <br>- ✏️ Java / Python | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangyezhuang&layout=compact&hide_title=true&langs_count=6&hide=jupyter%20notebook">  |
+<table>
+<tr>
+<td>
+<ul>
+<li>🎓 A university student in JOU </li>
+<li>✏️ Java / Python</li>
+</ul>
+</td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangyezhuang&layout=compact&langs_count=6&hide=jupyter%20notebook"></td>
+</tr>
+</table>
